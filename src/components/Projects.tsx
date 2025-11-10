@@ -135,6 +135,21 @@ const projects: Project[] = [
     ]
   },
   {
+    title: 'MstryComment',
+    description: "MstryComment: A versatile commenting system for blogs and articles, featuring nested comments, and user authentication.",
+    image: '/projects/Screenshot 2025-11-08 175808.png',
+    liveLink: 'https://mystrycomment.vercel.app/',
+    sourceLink: 'https://github.com/DevpriyaSaini/mystrycomment',
+     tags: [
+      NextJS,
+      NodeJS,
+      openAI,
+      { name: 'Acertinity' },
+      TypeScript,
+      Tailwind
+    ]
+  },
+  {
     title: 'Movie-flix',
     description: "Movie-Flix: A React Native app that recommends movies and stores preferences locally for users.",
     image: '/projects/WhatsApp Image 2025-11-06 at 00.50.14_eccd3f6d.jpg' ,
