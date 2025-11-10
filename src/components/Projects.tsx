@@ -135,8 +135,8 @@ const projects: Project[] = [
     ]
   },
   {
-    title: 'MstryComment',
-    description: "MstryComment: A versatile commenting system for blogs and articles, featuring nested comments, and user authentication.",
+    title: 'MystryComment',
+    description: "MystryComment: A versatile commenting system for blogs and articles, featuring nested comments, and user authentication.",
     image: '/projects/Screenshot 2025-11-08 175808.png',
     liveLink: 'https://mystrycomment.vercel.app/',
     sourceLink: 'https://github.com/DevpriyaSaini/mystrycomment',
