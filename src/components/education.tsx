@@ -35,7 +35,8 @@ const Education = () => {
         <div className="space-y-3 text-sm text-muted-foreground leading-relaxed text-justify">
           <motion.p variants={childVariant}>
             I’m currently pursuing my <Highlight>B.Tech </Highlight> at{' '}
-            <Highlight>IIT Jammu</Highlight>, 
+            <Highlight>IIT Jammu</Highlight>, where I’m learning the fundamentals of computer systems,
+            
           </motion.p>
 
           <motion.p variants={childVariant}>
